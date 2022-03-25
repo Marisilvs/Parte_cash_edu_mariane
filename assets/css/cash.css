@@ -1,0 +1,33 @@
+.titulo{
+    position: relative;
+    margin-left: 70px;
+    margin-top: 50px;
+    color: #3f5166;
+    font-family: Inter sans-serif;
+    font-size: 30px;
+    
+}
+
+.paragrafos{
+    margin-top: 30px;
+    margin-left: 70px;
+    border: 1px solid;
+    width: 30%;
+    color: #6f8eb3;
+    font-family: Inter sans-serif;
+    font-size: 16px;
+   
+}
+#final{
+    color: #3f5166;
+    font-family: Inter sans-serif;
+    font-size: 16px;
+}
+
+.imagem{
+    display: flex;
+    position: relative;
+    margin-left: 52%;
+    margin-bottom: 20%;
+    
+}
