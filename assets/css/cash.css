@@ -1,33 +1,32 @@
 .titulo{
     position: relative;
     margin-left: 70px;
-    margin-top: 50px;
+    margin-top: 60px;
     color: #3f5166;
-    font-family: Inter sans-serif;
-    font-size: 30px;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
     
 }
 
 .paragrafos{
     margin-top: 30px;
     margin-left: 70px;
-    border: 1px solid;
-    width: 30%;
+    width: 35%;
     color: #6f8eb3;
-    font-family: Inter sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 16px;
    
 }
 #final{
     color: #3f5166;
-    font-family: Inter sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 16px;
 }
 
 .imagem{
-    display: flex;
-    position: relative;
+    font-family: "Inter", sans-serif;
+    position: absolute;
     margin-left: 52%;
-    margin-bottom: 20%;
-    
+    bottom: 30%;
+
 }
